@@ -1,0 +1,14 @@
+{
+  "name": "dev-train",
+  "version": "1.0.0",
+  "description": "not added yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "mialso",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
